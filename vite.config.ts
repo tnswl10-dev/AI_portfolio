@@ -6,7 +6,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base : '/AI_portfolio',
+    base : '/Al_portfolio',
     plugins: [
       react(),
       tailwindcss(),
